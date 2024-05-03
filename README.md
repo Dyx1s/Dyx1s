@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as React, React Vite and Next.js<br>- 📚 I'm currently learning Next.js, ThreeJS and Solidity<br>- ⚡ In my free time.. Free time? What is that?</p>
+<p align="left"> 🔭 I’m working as React, React Vite and Next.js<br>- 📚 I'm currently learning Next.js, ThreeJS and Solidity<br>- ⚡ In my free time.. Free time? What is that?</p>
 
 ###
 
